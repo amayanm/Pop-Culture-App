@@ -1,6 +1,9 @@
 {
   "main": "node_modules/expo/AppEntry.js",
+  "homepage": "https://github.io/amayanm/Pop-Culture-App",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
