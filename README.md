@@ -2,7 +2,7 @@
 
 Different trivia on 2000s pop culture (Music, Movies, Tv, and Games)
 
-Built using React Navtie
+Built using React Native
 
 # Features
     - Add number of games played
